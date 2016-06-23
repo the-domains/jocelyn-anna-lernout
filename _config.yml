@@ -1,0 +1,28 @@
+name: JOCELYN ANNA LERNOUT
+favicon: null
+layout_spectrum: 0.08561504352837801
+typography_spectrum: 0.5014315994922072
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6093336304184049
+  lightness: 0.34384498791769147
+  saturation: 0.6308429928030819
+  rhythmicContrast: 0.9388936462346464
+purpose: []
