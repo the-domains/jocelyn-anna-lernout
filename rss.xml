@@ -4,7 +4,7 @@
         <description><![CDATA[JOCELYN ANNA LERNOUT]]></description>
         <link>http://jocelynannalernout.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jul 2016 19:43:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2016 19:52:55 GMT</lastBuildDate>
         <atom:link href="http://jocelynannalernout.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Actress, Artist, Filmmaker]]></title>
@@ -12,6 +12,13 @@
             <link>http://jocelynannalernout.com/96cae7d7-a160-43c2-a337-7040d0b8230e/index.html</link>
             <guid isPermaLink="false">96cae7d7-a160-43c2-a337-7040d0b8230e</guid>
             <pubDate>Fri, 24 Jun 2016 17:17:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Headshots]]></title>
+            <description><![CDATA[<article><h1>Headshots</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f28d3df073d7c3f6fdf2fec1d373a20c/croprotate.jpg?cropheight=1065&cropwidth=1600&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F09d6343b-ce21-4d72-a11f-8549d738fa78.jpg&x=0&y=0"></article>]]></description>
+            <link>http://jocelynannalernout.com/32b1a96d-8247-4ac2-b862-a27bf3722d33/index.html</link>
+            <guid isPermaLink="false">32b1a96d-8247-4ac2-b862-a27bf3722d33</guid>
+            <pubDate>Fri, 15 Jul 2016 19:52:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -33,13 +40,6 @@
             <link>http://jocelynannalernout.com/640b5b95-7588-452f-ba90-893d53cb02d1/index.html</link>
             <guid isPermaLink="false">640b5b95-7588-452f-ba90-893d53cb02d1</guid>
             <pubDate>Fri, 15 Jul 2016 19:26:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Headshots]]></title>
-            <description><![CDATA[<article><h1>Headshots</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f28d3df073d7c3f6fdf2fec1d373a20c/croprotate.jpg?cropheight=1065&cropwidth=1600&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F09d6343b-ce21-4d72-a11f-8549d738fa78.jpg&x=0&y=0"></article>]]></description>
-            <link>http://jocelynannalernout.com/32b1a96d-8247-4ac2-b862-a27bf3722d33/index.html</link>
-            <guid isPermaLink="false">32b1a96d-8247-4ac2-b862-a27bf3722d33</guid>
-            <pubDate>Fri, 15 Jul 2016 19:23:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
