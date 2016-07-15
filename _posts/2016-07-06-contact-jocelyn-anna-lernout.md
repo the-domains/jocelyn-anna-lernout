@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Contact Jocelyn Anna Lernout
-datePublished: '2016-07-15T19:53:55.887Z'
-dateModified: '2016-07-15T19:53:51.647Z'
-title: ''
-author: []
+datePublished: '2016-07-15T19:56:56.734Z'
+dateModified: '2016-07-15T19:54:05.702Z'
+title: Phone Jocelyn 1-519-589-4380
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-07-06-contact-jocelyn-anna-lernout.md
 authors: []
 publisher: null
